@@ -1,4 +1,4 @@
-const backendDomin = "https://ashish-e-comm-2-backend-main.vercel.app"
+const backendDomin = "https://e-com-bcnd.vercel.app"
 // const backendDomin = "http://localhost:5000"
 const token = localStorage.getItem("token")
 const SummaryApi = {

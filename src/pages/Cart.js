@@ -391,8 +391,8 @@ const Cart = () => {
             key, // Enter the Key ID generated from the Dashboard
             amount: order.amount, // Amount is in currency subunits. Default currency is INR. Hence, 50000 refers to 50000 paise
             currency: "INR",
-            name: "Arijit Barik",
-            description: "hii..I am learning payment baby",
+            name: "ARIJIT BARIK",
+            description: "hii..I am learning payment ",
             image: "https://avatars.githubusercontent.com/u/121745672?v=4",
             order_id: order.id, //This is a sample Order ID. Pass the `id` obtained in the response of Step 1
 

@@ -60,7 +60,7 @@ const Header = () => {
     <header className='h-16 shadow-md bg-white fixed w-full z-40'>
       <div className=' h-full container mx-auto flex items-center px-4 justify-between'>
              <div className='font-bold text-red-600 text-3xl'>
-              InstaCart
+              InstaCart.com
             </div>
             
 

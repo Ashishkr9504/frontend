@@ -390,7 +390,7 @@ const Cart = () => {
         const options = {
             key, // Enter the Key ID generated from the Dashboard
             amount: order.amount,
-            name: "ARIJIT BARIK",
+            name: "ASHISH KUMAR",
             description: "hii..I am learning payment ",
             image: "https://avatars.githubusercontent.com/u/121745672?v=4",
             order_id: order.id, //This is a sample Order ID. Pass the `id` obtained in the response of Step 1
